@@ -1,0 +1,28 @@
+{
+    "name": "com.github.davimedio01.tcc2023",
+    "version": "0.0.1",
+    "displayName": "Gesture Recognition for Vuforia Augmented Reality",
+    "description": "A gesture recognition module for Vuforia Augmented Reality environments",
+    "author": {
+        "name": "Davi Augusto Neves Leite",
+        "email": "davi.neves@unesp.br",
+        "url": "https://github.com/davimedio01"
+    },
+    "unity": "2021.3",
+    "unityRelease": "3f1",
+    "documentationUrl": "https://github.com/davimedio01/Gesture-Recognition-for-Augmented-Reality/wiki",
+    "changelogUrl": "https://github.com/davimedio01/Gesture-Recognition-for-Augmented-Reality/blob/master/CHANGELOG.md",
+    "licensesUrl": "https://github.com/davimedio01/Gesture-Recognition-for-Augmented-Reality/blob/main/LICENSE",
+    "keywords": [
+        "unity",
+        "unity3d",
+        "augmented-reality",
+        "interaction",
+        "gesture-recognition",
+        "vuforia"
+    ],
+    "dependencies": {
+        "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.12.3.tgz"
+    }
+    
+}
